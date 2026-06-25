@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Compilado
+dist/
+
+# Salidas del scraper (datos y PDFs descargados)
+output/
+*.log
+
+# Sistema operativo / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Variables de entorno
+.env
